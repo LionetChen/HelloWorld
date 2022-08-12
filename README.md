@@ -10,7 +10,7 @@ Yes I am a cat person.
 BASIC is my first language, along with Chinese and Cantonese.
 
 ### Favourite Movies
-The Lion King
+The Lion King<br>
 Black Hawk Down
 
 ### Favourite books
