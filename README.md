@@ -12,3 +12,6 @@ BASIC is my first language, along with Chinese and Cantonese.
 ### Favourite Movies
 The Lion King<br>
 Black Hawk Down
+
+### Favourite books
+The Longest Day
